@@ -5,3 +5,5 @@ A*11:01
 ...
 
 Then run the script
+  python coverage.py input.txt
+
